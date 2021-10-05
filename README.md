@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amandas_das
-- 👀 I’m interested in Powershell scripting for SHarePoint Online and other Microsoft 365 services. Building Power Apps, PowerAutomate
+- 👀 I’m interested in Powershell scripting for SharePoint Online and other Microsoft 365 services. Building Power Apps, PowerAutomate
 - 🌱 I’m currently learning SharePoint FrameWork Spfx. 
 - 💞️ I’m looking to collaborate on PnP community. 
 - 📫 How to reach me https://www.linkedin.com/in/aman-das-6b62323b/ 
