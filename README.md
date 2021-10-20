@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AD
+- 👋 Hi, I’m PD
 - 👀 I’m interested in Powershell scripting for SharePoint Online and other Microsoft 365 services. Building Power Apps, PowerAutomate
-- 🌱 I’m currently learning SharePoint FrameWork Spfx. 
+- 🌱 I’m currently learning SharePoint . 
 - 💞️ I’m looking to collaborate on PnP community. 
 - 📫 How to reach me 
 
