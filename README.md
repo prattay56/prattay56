@@ -4,6 +4,7 @@
 - 🌱 I Write Powershell scripts mainly for Sharepoint online.  I Write Powershell scripts mainly for Sharepoint online. I mostly use pnp modules to simplify the script. I also write scripts for Azure | ExchangeOnline | Security and Compliance.
 - 💞️ I’m looking to collaborate on PnP community. 
 - 📫 How to reach me 
+-   ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) linkedin.com/in/aman-das-6b62323b
 
 
 #
