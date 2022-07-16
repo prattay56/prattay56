@@ -1,4 +1,4 @@
-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m Prattay 
+- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m Aman
 - Work as a Senior Escalation Engineer for Microsoft 365 services.
 - 👀 I specialize in SharePoint Online and OneDrive for Business.
 - 🌱 I Write Powershell scripts mainly for Sharepoint online. I mostly use pnp modules to simplify the script. I alos write CSOM scripts. I write scripts for Azure | ExchangeOnline | Security and Compliance.
